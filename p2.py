@@ -1,3 +1,3 @@
 p=9
 q=5
-print(p-q)
+print("the diff is ", p-q)
