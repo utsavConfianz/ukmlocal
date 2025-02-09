@@ -1,3 +1,3 @@
 a=90
 x=89
-print(a/x)
+print("the diev is",a/x)
