@@ -1,3 +1,3 @@
-k=9
-l=8
+k=99
+l=80
 print("multiplicatin =: ", k*l)
